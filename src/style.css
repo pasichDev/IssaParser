@@ -1,0 +1,33 @@
+
+
+
+.body{
+  padding: 20px;
+  background: #EBEBEB;
+}
+
+.control{
+  padding: 15px;
+   background: #EBEBEB;
+}
+
+.table {
+	text-align: center;
+}
+
+.card-content a{
+	color: #101010;
+}
+.card-content a:hover{
+	color: #48c774;
+}
+
+.panel-heading{
+  padding: 15px;
+  font-size: 14px;
+  border-radius: 0px;
+  }
+
+  .inf{
+    font-size: 12px;
+  }
